@@ -1,0 +1,17 @@
+# Ignore temporary files
+~*
+
+
+# Ignore environment files
+app/password_sql_server.env
+
+# Ignore the target directory (at the root level)
+target/
+
+# Do not ignore the src directory
+!src/
+
+# Optional: Ignore any target directory inside src, if it exists (specific to your case)
+src/target/
+
+.venv
