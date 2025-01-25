@@ -14,4 +14,5 @@ target/
 # Optional: Ignore any target directory inside src, if it exists (specific to your case)
 src/target/
 
-.venv
+/.idea
+
