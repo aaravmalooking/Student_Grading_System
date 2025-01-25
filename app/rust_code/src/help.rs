@@ -38,5 +38,5 @@ pub fn help_app() {
     println!("/goto is used whenever you want to go to something discarding all changes made in the current selection");
     println!("To exit all modes and enter root, type su_root ");
     println!("To logout, type /logout (anywhere this command will work)");
-
+    
 }
